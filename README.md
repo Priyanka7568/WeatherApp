@@ -69,8 +69,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-<!-- installed packages- -->
+## Installed Packages
 
-1. material UI -
-2. axios -
+1. material UI
+2. axios
 3. date-fns - "npm install date-fns"
