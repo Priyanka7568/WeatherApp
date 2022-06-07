@@ -1,4 +1,4 @@
-# Build Instructions and Approach
+# Build Instructions
 ### Install all depndencies using
     * npm install
 
